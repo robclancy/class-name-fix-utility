@@ -1,0 +1,1 @@
+<?php class StandardClass extends StdClass {}class_alias('Robbo\ClassNameFixUtility\Facade', 'ClassNameFixUtility\Facade');require_once sprintf("%s/%s/%s",__DIR__,'../../Gary','the_goat.php');use Gary\TheGoat as h;class GaryTheGoatsClassFixer extends h {}function __e($a,$b){return eval("class {$a->getClass()} extends {$b->getClass()}{}");}

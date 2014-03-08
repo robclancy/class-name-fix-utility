@@ -1,0 +1,10 @@
+{
+    "require": {
+        "illuminate/support": "*"
+    },
+    "autoload": {
+        "psr-0": { "Robbo\\ClassNameFixUtility": "src/" },
+        "psr-4": { "Robbo\\ClassNameFixUtility\\": "src/" },
+        "files": [ "src/Robbo/ClassNameFixUtility/helpers.php", "src/Gary/Controller.php" ]
+    }
+}
