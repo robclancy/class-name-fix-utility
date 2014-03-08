@@ -1,0 +1,2 @@
+<?php // This is too complex for unit tests so we do a fake test instead. Can be slow so minified
+require '../vendor/autoload.php';class Facade{function __toString(){return 'f';}}(new Gary\Controller('true'))->register();echo(class_exists('Surrogate', false)?'works':"doesn't work");
