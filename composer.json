@@ -1,4 +1,14 @@
 {
+    "name": "robclancy/class-name-fix-utility",
+    "description": "This is used to rename badly named classes. Comes with built in Laravel support to rename `Facade` to `Surrogate`.",
+    "keywords": ["laravel", "facade", "utility", "gary the goat"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Robbo",
+            "email": "mail@robertclancy.net"
+        }
+    ],
     "require": {
         "illuminate/support": "*"
     },
