@@ -3,9 +3,12 @@
 This is used to rename badly named classes. Comes with built in Laravel support to rename `Facade` to `Surrogate`.
 
 ### Good Code Makes Good Apps
-100% Tested
-phpmin usage to get maximum performance
-can literally change thousands of class names without any performance issues at all
+**100% tested**
+
+**phpmin usage to get maximum performance**
+
+**can literally change thousands of class names without any performance issues at all**
+
 
 ## Installation
 
