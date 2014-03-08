@@ -3,7 +3,7 @@
 This is used to rename badly named classes. Comes with built in Laravel support to rename `Facade` to `Surrogate`.
 
 ### Good Code Makes Good Apps
-**100% tested**
+**100% tested with TDD**
 
 **phpmin usage to get maximum performance**
 
